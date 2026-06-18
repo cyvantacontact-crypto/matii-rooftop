@@ -87,8 +87,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:site", content: "@Lovable" },
       { name: "twitter:title", content: "Lovable App" },
       { name: "twitter:description", content: "Matii Rooftop Experience is a restaurant website showcasing its menu, reviews, and location." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f7802f86-7df5-4376-978a-86796c908d79/id-preview-e4a03748--8e9f6897-f1e5-4786-bde8-34f5f45b0d02.lovable.app-1781806589520.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/f7802f86-7df5-4376-978a-86796c908d79/id-preview-e4a03748--8e9f6897-f1e5-4786-bde8-34f5f45b0d02.lovable.app-1781806589520.png" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0a0d7343-0878-45c5-bdd4-f552364137fd/id-preview-f430ce30--8e9f6897-f1e5-4786-bde8-34f5f45b0d02.lovable.app-1781807336723.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0a0d7343-0878-45c5-bdd4-f552364137fd/id-preview-f430ce30--8e9f6897-f1e5-4786-bde8-34f5f45b0d02.lovable.app-1781807336723.png" },
     ],
     links: [
       {
